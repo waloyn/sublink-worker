@@ -170,9 +170,7 @@ export class ProxyParser {
             server_port: port,
             password: uuid,
             tls: tls,
-            obfs: obfs,
-            up_mbps: 100,
-            down_mbps: 100
+            obfs: obfs
           };
         }
       }
